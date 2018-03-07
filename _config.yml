@@ -1,0 +1,78 @@
+typography_spectrum: 0.8483760303090151
+color:
+  brandStrength: 0.23391885214531333
+  lightness: 0.2946989091897918
+  saturation: 0.742003897882832
+  rhythmicContrast: 0.3372032969334338
+  brandColors:
+    - '#B50691'
+    - '#FF7DEE'
+    - '#110011'
+    - '#DD0000'
+    - '#FFF4FF'
+layout_spectrum: 0.055028511120910104
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6791594-8073-43fb-9c36-352fb149e4f9.gif
+name: Migros Media Innovation Lab
+navigation:
+  - name: Was wir tun
+    id: 204ef225-c126-433c-a847-83d6837cea7f
+    type: content
+  - name: Innovation Champions
+    id: afcb9d07-69b9-4f5a-b28d-baff9dd8b7a9
+    type: content
+  - name: Digitale Transformation
+    id: 7cac819e-e8ec-4642-b8fe-a96a6a9172f3
+    type: content
+  - name: Customer Experience
+    id: e045d452-5ae3-4ece-9bcc-2ea28c4581eb
+    type: content
+  - name: Blockchain
+    id: 1326b077-e969-40a4-905f-c6edbf48313c
+    type: content
+  - name: IoT
+    id: 7bd581c2-31e3-41cc-9054-3ad28780650e
+    type: content
+  - name: AR
+    id: 0d16f0db-f72c-47c4-a127-2d6c998509d0
+    type: content
+  - name: Social Media
+    id: e2ddf7f1-487c-4f21-bc29-8837010bfbc1
+    type: content
+  - name: Über uns
+    id: e56754d6-ffe6-4bf0-ba01-da0363a8ad86
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/323d2b26-b315-451e-b8c2-c0e0f2424ed7.gif
+title: Who wants change?
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8974b851-efdd-4bf7-b9ac-3358517000ee.gif">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/8974b851-efdd-4bf7-b9ac-3358517000ee.gif
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Navigating the Digital Transformation
+purpose:
+  - type: contact
+    url: 'mailto:besiana.lauperbandilli@migrosmedien.ch'
+    label: Contact us
+github: true
